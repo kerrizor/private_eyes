@@ -1,8 +1,7 @@
 # PrivateEyes
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/private_eyes`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
++ find all unused methods
++ find public methods that are only called from their parent class (and should be private)
 
 ## Installation
 
@@ -38,4 +37,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/kerriz
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
